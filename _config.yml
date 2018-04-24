@@ -16,7 +16,7 @@ about: True # set to False or comment line if you want to remove the "How to use
 #Profile information
 name: Dr Rumyana Neykova
 tagline: Post-Doc at Imperial College London 
-pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+pic: Rumi.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 summary: 'Since my PhD I have devoted my research efforts to provide solutions that (1) tackle practical
 problems (writing safe distributed programs in mainstream languages) and (2) are grounded on a solid theoretical
 foundation (a type theory for concurrent processes, called session types). I have shown via industry collaborations,
