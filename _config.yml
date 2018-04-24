@@ -14,21 +14,20 @@ about: True # set to False or comment line if you want to remove the "How to use
 
 
 #Profile information
-name: Alan Doe
-tagline: Full Stack Developer
+name: Dr Rumyana Neykova
+tagline: Post-Doc at Imperial College London 
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean
-commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient
-montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
+summary: 'Since my PhD I have devoted my research efforts to provide solutions that (1) tackle practical
+problems (writing safe distributed programs in mainstream languages) and (2) are grounded on a solid theoretical
+foundation (a type theory for concurrent processes, called session types). I have shown via industry collaborations,
+research prototypes and theories how to design expressive protocol specifications (with particular interest in real-time
+and fault-tolerant applications) and how to efficiently verify (and recover) programs at runtime.'
 
 #sidebar links
-email: hello@webjeda.com
-phone: 012 345 6789
-website: blog.webjeda.com #do not add http://
+email: rumi.neykova@gmail.com
 linkedin: alandoe
-github: sharu725
-twitter: '@webjeda'
+github: rumineykova
+twitter: '@rumi'
 #Update all the sections by editing the files inside _data folder.
 
 # uncomment the next line, if you want the education section displayed in main instead of the sidebar
