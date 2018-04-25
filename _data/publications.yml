@@ -12,3 +12,21 @@ publications:
     title: "Multiparty Session Actors"
     authors: "Rumyana Neykova, Nobuko Yoshida"
     conference: "COORDINATION 2014 (Core ranking A)"
+   - paper:
+    title: "Practical Interruptible Conversations - Distributed Dynamic Verification with Session Types
+and Python"
+    authors: "Raymond Hu, Rumyana Neykova, Nobuko Yoshida, Romain Demangeon, Kohei Honda"
+    conference: "RV 2013"
+    - paper:
+    title: "SPY: Local Verification of Global"
+    authors: "Rumyana Neykova, Nobuko Yoshida, Raymond Hu"
+    conference: "RV 2013"
+    - paper:
+    title: "The Scribble Protocol"
+    authors: "Nobuko Yoshida, Raymond Hu, Rumyana Neykova, Nicholas Ng"
+    conference: "TGC 2013"
+    - paper:
+    title: "Multiparty Session Actors"
+    authors: "Rumyana Neykova, Nobuko Yoshida"
+    conference: "COORDINATION 2014 (Core ranking A)"
+
