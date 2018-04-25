@@ -1,15 +1,14 @@
-intro: "You can list your publications in this section. Lorem ipsum dolor
-  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+intro: "Conferences"
 publications:
+  - paper: 
+    title: "Session Type Providers: Compile-time Generation of Distributed Protoccol APIs"
+    authors: Rumyana Neykova, Raymond Hu, Nobuko Yoshida, Fahd Abdaljalal
+    conference: CC 2018 (Core ranking: A)
   - paper:
-    title: The Art of Computer Programming
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
+    title: "Let it recover: multiparty protocol-induced recovery"
+    authors: Rumyana Neykova, Nobuko Yoshida
+    conference: CC 2017 (Core ranking A)
   - paper:
-    title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-  - paper:
-    title: A syntax directed compiler for Algol 60
-    authors: Edgar T. Irons
-    conference: "Comm. ACM 4 (1961), 51–55"
+    title: Multiparty Session Actors
+    authors: Rumyana Neykova, Nobuko Yoshida
+    conference: COORDINATION 2014 (Core ranking A)
