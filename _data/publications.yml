@@ -2,13 +2,13 @@ intro: "Conferences"
 publications:
   - paper: 
     title: "Session Type Providers: Compile-time Generation of Distributed Protoccol APIs"
-    authors: Rumyana Neykova, Raymond Hu, Nobuko Yoshida, Fahd Abdaljalal
-    conference: CC 2018 (Core ranking: A)
+    authors: "Rumyana Neykova, Raymond Hu, Nobuko Yoshida, Fahd Abdaljalal"
+    conference: "CC 2018 (Core ranking: A)"
   - paper:
     title: "Let it recover: multiparty protocol-induced recovery"
-    authors: Rumyana Neykova, Nobuko Yoshida
-    conference: CC 2017 (Core ranking A)
+    authors: "Rumyana Neykova, Nobuko Yoshida"
+    conference: "CC 2017 (Core ranking A)"
   - paper:
-    title: Multiparty Session Actors
-    authors: Rumyana Neykova, Nobuko Yoshida
-    conference: COORDINATION 2014 (Core ranking A)
+    title: "Multiparty Session Actors"
+    authors: "Rumyana Neykova, Nobuko Yoshida"
+    conference: "COORDINATION 2014 (Core ranking A)"
